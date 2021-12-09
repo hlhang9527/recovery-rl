@@ -1,4 +1,4 @@
-# Recovery RL: Safe Reinforcement Learning with Learned Recovery Zones
+# zhl Recovery RL: Safe Reinforcement Learning with Learned Recovery Zones
 ------------
 
 <p align=center>
